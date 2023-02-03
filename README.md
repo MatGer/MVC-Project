@@ -1,7 +1,7 @@
 
 # MVC Application
 
-This is an MVC (model-view-controller application with CRUD functionalities. The application communicates with a database where it can create, read, update and delete data. 
+This is an MVC (model-view-controller) application with CRUD functionalities. The application communicates with a database where it can create, read, update and delete data. 
 
 ## Badges
 
