@@ -1,7 +1,7 @@
 
 # MVC Application
 
-This is an MVC (model-view-controller) application with CRUD functionalities. The application communicates with a database where it can create, read, update and delete data. 
+This is an MVC (model-view-controller) application with CRUD actions. The application communicates with a database where it can create, read, update and delete data. 
 
 ## Badges
 
@@ -26,6 +26,6 @@ After successfully inserting a new row, a notification informs us and we can see
 ![Edit page](https://raw.githubusercontent.com/MatGer/readme_images/main/MVC_Images/mvc4.PNG)
 ### Delete page
 ![Delete page](https://raw.githubusercontent.com/MatGer/readme_images/main/MVC_Images/mvc5.PNG)
-### Category page (after deleteing a row)
+### Category page (after deleting a row)
 After deleting a row, we can see that the row doen not exist in the database anymore.
 ![Category page 3](https://raw.githubusercontent.com/MatGer/readme_images/main/MVC_Images/mvc6.PNG)
